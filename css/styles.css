@@ -1,0 +1,42 @@
+/******************* TAG SELECTORS *******************/
+body {
+    background-color: #e8f1f5;
+}
+
+h1 {
+    color: #004a7c;
+}
+
+h3 {
+    color: #004a7c;
+}
+
+h4 {
+    color: #004a7c;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+img {
+    height: 250px;
+}
+/******************* CLASS SELECTORS *******************/
+
+.contacts {
+    color: #e8f1f5
+}
+/*
+.class - not unique (can group elements)
+:sudo-classes(can change depend on change - like hoevring over it)
+*/
+
+/******************* ID SELECTORS *******************/
+/*
+#id - single instance (unique)
+*/
